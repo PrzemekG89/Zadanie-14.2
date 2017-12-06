@@ -26,7 +26,7 @@ var movies = [{
         id: 5,
         title: 'Rocky Balboa',
         img: 'images/Rocky.jpg',
-        decs: 'film o bokserze'
+        desc: 'film o bokserze'
     }
 ];
 
